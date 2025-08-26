@@ -1,6 +1,6 @@
 {
 	"name": "loopback-datasource-juggler",
-	"version": "5.0.0",
+	"version": "5.0.1",
 	"publishConfig": {
 		"export-tests": true
 	},
@@ -56,7 +56,7 @@
 		"depd": "^2.0.0",
 		"inflection": "^1.13.2",
 		"lodash": "^4.17.21",
-		"loopback-connector": "git+ssh://git@gitlab.impressed.de:iws-pro/loopback-connector#iws-pro",
+		"loopback-connector": "git+ssh://git@gitlab.impressed.de:iws-pro/loopback-connector#feature/uuidV7",
 		"minimatch": "^5.1.0",
 		"nanoid": "^3.3.4",
 		"qs": "^6.10.5",
